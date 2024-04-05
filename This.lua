@@ -1,1 +1,1 @@
-ww
+print(hey)
